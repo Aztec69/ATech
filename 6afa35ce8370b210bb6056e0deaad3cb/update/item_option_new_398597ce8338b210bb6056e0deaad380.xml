@@ -10,7 +10,7 @@
         <conversational_label/>
         <create_roles/>
         <default_html_value/>
-        <default_value>javascript: gs.getUserID()</default_value>
+        <default_value/>
         <delete_roles/>
         <delivery_plan/>
         <description/>
@@ -38,26 +38,26 @@
         <lookup_value/>
         <macro/>
         <macroponent/>
-        <mandatory>false</mandatory>
+        <mandatory>true</mandatory>
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>requestor_name</name>
+        <name>choose_your_ai_device</name>
         <not_available_conversation>false</not_available_conversation>
-        <order>100</order>
+        <order>300</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Requestor Name</question_text>
-        <read_only>true</read_only>
+        <question_text>Choose your AI Device</question_text>
+        <read_only>false</read_only>
         <read_roles/>
         <read_script/>
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
         <record/>
         <record_producer_table/>
-        <reference>sys_user</reference>
+        <reference>x_1777657_atech_ai_devices</reference>
         <reference_qual/>
         <reference_qual_condition/>
         <rich_text/>
@@ -77,16 +77,16 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-10-26 20:24:26</sys_created_on>
-        <sys_id>c424db4e8338b210bb6056e0deaad354</sys_id>
-        <sys_mod_count>6</sys_mod_count>
-        <sys_name>Requestor Name</sys_name>
+        <sys_created_on>2025-10-26 20:29:38</sys_created_on>
+        <sys_id>398597ce8338b210bb6056e0deaad380</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Choose your AI Device</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="ATech">6afa35ce8370b210bb6056e0deaad3cb</sys_scope>
-        <sys_update_name>item_option_new_c424db4e8338b210bb6056e0deaad354</sys_update_name>
+        <sys_update_name>item_option_new_398597ce8338b210bb6056e0deaad380</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-10-26 21:13:13</sys_updated_on>
+        <sys_updated_on>2025-10-26 21:17:59</sys_updated_on>
         <table/>
         <tooltip/>
         <topic_block/>
@@ -106,22 +106,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=c424db4e8338b210bb6056e0deaad354"/>
-    <fx_price action="delete_multiple" query="id=c424db4e8338b210bb6056e0deaad354"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=398597ce8338b210bb6056e0deaad380"/>
+    <fx_price action="delete_multiple" query="id=398597ce8338b210bb6056e0deaad380"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price_if_checked</field>
-        <id>c424db4e8338b210bb6056e0deaad354</id>
+        <id>398597ce8338b210bb6056e0deaad380</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-10-26 20:24:26</sys_created_on>
-        <sys_id>cb74538e8338b210bb6056e0deaad3f1</sys_id>
+        <sys_created_on>2025-10-26 20:29:38</sys_created_on>
+        <sys_id>d3a55bce8338b210bb6056e0deaad34d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-10-26 20:24:26</sys_updated_on>
+        <sys_updated_on>2025-10-26 20:29:38</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -129,16 +129,16 @@
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>rec_price_if_checked</field>
-        <id>c424db4e8338b210bb6056e0deaad354</id>
+        <id>398597ce8338b210bb6056e0deaad380</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-10-26 20:24:26</sys_created_on>
-        <sys_id>8f74538e8338b210bb6056e0deaad3f0</sys_id>
+        <sys_created_on>2025-10-26 20:29:38</sys_created_on>
+        <sys_id>97a55bce8338b210bb6056e0deaad34c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-10-26 20:24:26</sys_updated_on>
+        <sys_updated_on>2025-10-26 20:29:38</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>

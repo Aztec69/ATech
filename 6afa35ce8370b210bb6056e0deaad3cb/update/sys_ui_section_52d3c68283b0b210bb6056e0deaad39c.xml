@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-10-26 15:28:32</sys_created_on>
-            <sys_id>60c056ca83f0b210bb6056e0deaad372</sys_id>
+            <sys_created_on>2025-10-26 22:33:25</sys_created_on>
+            <sys_id>5402bfc283f8b210bb6056e0deaad341</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1777657_atech_device_request" sys_domain="global" view="Default view">52d3c68283b0b210bb6056e0deaad39c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-10-26 15:28:32</sys_updated_on>
+            <sys_updated_on>2025-10-26 22:33:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>u_device_name</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-10-26 15:28:32</sys_created_on>
-            <sys_id>e4c056ca83f0b210bb6056e0deaad372</sys_id>
+            <sys_created_on>2025-10-26 22:33:25</sys_created_on>
+            <sys_id>1002bfc283f8b210bb6056e0deaad342</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1777657_atech_device_request" sys_domain="global" view="Default view">52d3c68283b0b210bb6056e0deaad39c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-10-26 15:28:32</sys_updated_on>
+            <sys_updated_on>2025-10-26 22:33:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>u_requestor</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-10-26 15:28:32</sys_created_on>
-            <sys_id>6cc056ca83f0b210bb6056e0deaad372</sys_id>
+            <sys_created_on>2025-10-26 22:33:25</sys_created_on>
+            <sys_id>9402bfc283f8b210bb6056e0deaad342</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1777657_atech_device_request" sys_domain="global" view="Default view">52d3c68283b0b210bb6056e0deaad39c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-10-26 15:28:32</sys_updated_on>
+            <sys_updated_on>2025-10-26 22:33:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>company</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-10-26 15:28:32</sys_created_on>
-            <sys_id>e0c056ca83f0b210bb6056e0deaad373</sys_id>
+            <sys_created_on>2025-10-26 22:33:25</sys_created_on>
+            <sys_id>1c02bfc283f8b210bb6056e0deaad342</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1777657_atech_device_request" sys_domain="global" view="Default view">52d3c68283b0b210bb6056e0deaad39c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-10-26 15:28:32</sys_updated_on>
+            <sys_updated_on>2025-10-26 22:33:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-10-26 15:28:32</sys_created_on>
-            <sys_id>68c056ca83f0b210bb6056e0deaad373</sys_id>
+            <sys_created_on>2025-10-26 22:33:25</sys_created_on>
+            <sys_id>9002bfc283f8b210bb6056e0deaad343</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1777657_atech_device_request" sys_domain="global" view="Default view">52d3c68283b0b210bb6056e0deaad39c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-10-26 15:28:32</sys_updated_on>
+            <sys_updated_on>2025-10-26 22:33:25</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>u_quantity</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-10-26 15:28:32</sys_created_on>
-            <sys_id>ecc056ca83f0b210bb6056e0deaad373</sys_id>
+            <sys_created_on>2025-10-26 22:33:25</sys_created_on>
+            <sys_id>1802bfc283f8b210bb6056e0deaad343</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1777657_atech_device_request" sys_domain="global" view="Default view">52d3c68283b0b210bb6056e0deaad39c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-10-26 15:28:32</sys_updated_on>
+            <sys_updated_on>2025-10-26 22:33:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>u_delivery_date</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-10-26 15:28:32</sys_created_on>
-            <sys_id>64c056ca83f0b210bb6056e0deaad374</sys_id>
+            <sys_created_on>2025-10-26 22:33:25</sys_created_on>
+            <sys_id>9c02bfc283f8b210bb6056e0deaad343</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1777657_atech_device_request" sys_domain="global" view="Default view">52d3c68283b0b210bb6056e0deaad39c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-10-26 15:28:32</sys_updated_on>
+            <sys_updated_on>2025-10-26 22:33:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,41 +102,69 @@
             <element>state</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-10-26 15:28:32</sys_created_on>
-            <sys_id>e8c056ca83f0b210bb6056e0deaad374</sys_id>
+            <sys_created_on>2025-10-26 22:33:25</sys_created_on>
+            <sys_id>1402bfc283f8b210bb6056e0deaad344</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1777657_atech_device_request" sys_domain="global" view="Default view">52d3c68283b0b210bb6056e0deaad39c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-10-26 15:28:32</sys_updated_on>
+            <sys_updated_on>2025-10-26 22:33:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>total_cost</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-26 22:33:25</sys_created_on>
+            <sys_id>9802bfc283f8b210bb6056e0deaad344</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1777657_atech_device_request" sys_domain="global" view="Default view">52d3c68283b0b210bb6056e0deaad39c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-26 22:33:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reminder_for_pickup</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-10-26 22:33:25</sys_created_on>
+            <sys_id>1002bfc283f8b210bb6056e0deaad345</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1777657_atech_device_request" sys_domain="global" view="Default view">52d3c68283b0b210bb6056e0deaad39c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-10-26 22:33:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>8</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-10-26 15:28:32</sys_created_on>
-            <sys_id>60c056ca83f0b210bb6056e0deaad375</sys_id>
+            <sys_created_on>2025-10-26 22:33:25</sys_created_on>
+            <sys_id>a402bfc283f8b210bb6056e0deaad345</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1777657_atech_device_request" sys_domain="global" view="Default view">52d3c68283b0b210bb6056e0deaad39c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-10-26 15:28:32</sys_updated_on>
+            <sys_updated_on>2025-10-26 22:33:25</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
-            <position>9</position>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-10-26 15:28:32</sys_created_on>
-            <sys_id>e4c056ca83f0b210bb6056e0deaad375</sys_id>
+            <sys_created_on>2025-10-26 22:33:25</sys_created_on>
+            <sys_id>2c02bfc283f8b210bb6056e0deaad345</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1777657_atech_device_request" sys_domain="global" view="Default view">52d3c68283b0b210bb6056e0deaad39c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-10-26 15:28:32</sys_updated_on>
+            <sys_updated_on>2025-10-26 22:33:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
