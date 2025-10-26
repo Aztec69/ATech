@@ -2,17 +2,17 @@
     <sys_security_acl_role action="INSERT_OR_UPDATE">
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-10-26 14:50:35</sys_created_on>
-        <sys_id>b818060283f0b210bb6056e0deaad3e6</sys_id>
+        <sys_created_on>2025-10-26 19:11:11</sys_created_on>
+        <sys_id>4d738f0a83f4b210bb6056e0deaad306</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_1777657_atech_ai_devices.x_1777657_atech.ai_devices_user</sys_name>
+        <sys_name>x_1777657_atech_ai_devices.x_1777657_atech.device_management</sys_name>
         <sys_package display_value="ATech" source="x_1777657_atech">6afa35ce8370b210bb6056e0deaad3cb</sys_package>
         <sys_policy/>
         <sys_scope display_value="ATech">6afa35ce8370b210bb6056e0deaad3cb</sys_scope>
         <sys_security_acl display_value="x_1777657_atech_ai_devices">6418060283f0b210bb6056e0deaad3e2</sys_security_acl>
-        <sys_update_name>sys_security_acl_role_b818060283f0b210bb6056e0deaad3e6</sys_update_name>
+        <sys_update_name>sys_security_acl_role_4d738f0a83f4b210bb6056e0deaad306</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-10-26 14:50:35</sys_updated_on>
-        <sys_user_role display_value="x_1777657_atech.ai_devices_user" name="x_1777657_atech.ai_devices_user">a418420283f0b210bb6056e0deaad3f7</sys_user_role>
+        <sys_updated_on>2025-10-26 19:11:11</sys_updated_on>
+        <sys_user_role display_value="x_1777657_atech.device_management" name="x_1777657_atech.device_management">033b754e8370b210bb6056e0deaad3e9</sys_user_role>
     </sys_security_acl_role>
 </record_update>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="AI Devices">ada4c28a83b0b210bb6056e0deaad366</application>
+        <application display_value="ATech">10bb354e8370b210bb6056e0deaad3a9</application>
         <assessment/>
         <device_type/>
         <filter/>
@@ -18,24 +18,24 @@
         <query/>
         <report/>
         <require_confirmation>true</require_confirmation>
-        <roles>x_1777657_atech.ai_devices_user</roles>
+        <roles>x_1777657_atech.device_management,x_1777657_atech.dispatch_management,x_1777657_atech.release_management</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-10-26 14:50:35</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6018420283f0b210bb6056e0deaad3fe</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>AI Devices</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Device Details</sys_name>
         <sys_overrides/>
         <sys_package display_value="ATech" source="x_1777657_atech">6afa35ce8370b210bb6056e0deaad3cb</sys_package>
         <sys_policy/>
         <sys_scope display_value="ATech">6afa35ce8370b210bb6056e0deaad3cb</sys_scope>
         <sys_update_name>sys_app_module_6018420283f0b210bb6056e0deaad3fe</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-10-26 14:50:35</sys_updated_on>
+        <sys_updated_on>2025-10-26 19:36:33</sys_updated_on>
         <timeline_page/>
-        <title>AI Devices</title>
+        <title>Device Details</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

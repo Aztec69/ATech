@@ -11,9 +11,11 @@
         <name>Hide Section on load</name>
         <order/>
         <script><![CDATA[function onLoad() {
+	if(g_form.getValue('u_device_name')=='')
+	{
    g_form.setSectionDisplay('device_details',false);
    g_form.setSectionDisplay('delivery_details',false);
-   
+	}
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -21,7 +23,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>4201fe4283b4b210bb6056e0deaad34a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Hide Section on load</sys_name>
         <sys_overrides/>
         <sys_package display_value="ATech" source="x_1777657_atech">6afa35ce8370b210bb6056e0deaad3cb</sys_package>
@@ -29,7 +31,7 @@
         <sys_scope display_value="ATech">6afa35ce8370b210bb6056e0deaad3cb</sys_scope>
         <sys_update_name>sys_script_client_4201fe4283b4b210bb6056e0deaad34a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-10-26 17:51:16</sys_updated_on>
+        <sys_updated_on>2025-10-26 18:43:56</sys_updated_on>
         <table>x_1777657_atech_device_request</table>
         <type>onLoad</type>
         <ui_type>10</ui_type>

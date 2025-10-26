@@ -18,24 +18,24 @@
         <query/>
         <report/>
         <require_confirmation>true</require_confirmation>
-        <roles/>
+        <roles>x_1777657_atech.device_management,x_1777657_atech.dispatch_management,x_1777657_atech.release_management</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-10-26 13:56:30</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>dcbbb10283b0b210bb6056e0deaad3d3</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>All</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>All Device Request</sys_name>
         <sys_overrides/>
         <sys_package display_value="ATech" source="x_1777657_atech">6afa35ce8370b210bb6056e0deaad3cb</sys_package>
         <sys_policy/>
         <sys_scope display_value="ATech">6afa35ce8370b210bb6056e0deaad3cb</sys_scope>
         <sys_update_name>sys_app_module_dcbbb10283b0b210bb6056e0deaad3d3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-10-26 13:56:30</sys_updated_on>
+        <sys_updated_on>2025-10-26 19:42:55</sys_updated_on>
         <timeline_page/>
-        <title>All</title>
+        <title>All Device Request</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
