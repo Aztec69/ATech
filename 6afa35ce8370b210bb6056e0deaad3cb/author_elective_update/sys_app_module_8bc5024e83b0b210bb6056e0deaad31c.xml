@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="ATech">10bb354e8370b210bb6056e0deaad3a9</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>AI Devices</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1777657_atech_ai_devices</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_1777657_atech.ai_devices_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-26 14:40:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8bc5024e83b0b210bb6056e0deaad31c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AI Devices</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ATech" source="x_1777657_atech">6afa35ce8370b210bb6056e0deaad3cb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ATech">6afa35ce8370b210bb6056e0deaad3cb</sys_scope>
+        <sys_update_name>sys_app_module_8bc5024e83b0b210bb6056e0deaad31c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-26 14:40:38</sys_updated_on>
+        <timeline_page/>
+        <title>AI Devices</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ATech">6afa35ce8370b210bb6056e0deaad3cb</application>
+        <file_path/>
+        <instance_id>204b4476db46021037d72a591396197a</instance_id>
+        <instance_name>dev268218</instance_name>
+        <name>sys_app_module_8bc5024e83b0b210bb6056e0deaad31c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="ATech">10bb354e8370b210bb6056e0deaad3a9</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>AI Devices</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1777657_atech_ai_devices</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_1777657_atech.ai_devices_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-26 14:40:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8bc5024e83b0b210bb6056e0deaad31c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>AI Devices</sys_name><sys_overrides/><sys_package display_value="ATech" source="x_1777657_atech">6afa35ce8370b210bb6056e0deaad3cb</sys_package><sys_policy/><sys_scope display_value="ATech">6afa35ce8370b210bb6056e0deaad3cb</sys_scope><sys_update_name>sys_app_module_8bc5024e83b0b210bb6056e0deaad31c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-26 14:40:38</sys_updated_on><timeline_page/><title>AI Devices</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1805774870</payload_hash>
+        <record_name>AI Devices</record_name>
+        <reverted_from/>
+        <source>f41cb90283b0b210bb6056e0deaad3f3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-26 14:40:38</sys_created_on>
+        <sys_id>47c5024e83b0b210bb6056e0deaad31f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19a20f6d5e80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-26 14:40:38</sys_updated_on>
+        <type>Module</type>
+        <update_guid>4bc5024e22b0b2108f6084437bb1dd1e</update_guid>
+        <update_guid_history>4bc5024e22b0b2108f6084437bb1dd1e:1805774870</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="AI Devices">1db70ace83b0b210bb6056e0deaad32e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-26 14:48:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>1f5fd787be00410d845451ee7efe3bc1</sys_id>
+        <sys_metadata>8bc5024e83b0b210bb6056e0deaad31c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AI Devices</sys_name>
+        <sys_package display_value="ATech" source="x_1777657_atech">6afa35ce8370b210bb6056e0deaad3cb</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ATech">6afa35ce8370b210bb6056e0deaad3cb</sys_scope>
+        <sys_scope_delete display_value="">44268d58c1fe4f84b6d6c7d448c0d221</sys_scope_delete>
+        <sys_update_name>sys_app_module_8bc5024e83b0b210bb6056e0deaad31c</sys_update_name>
+        <sys_update_version display_value="sys_app_module_8bc5024e83b0b210bb6056e0deaad31c">47c5024e83b0b210bb6056e0deaad31f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-26 14:48:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

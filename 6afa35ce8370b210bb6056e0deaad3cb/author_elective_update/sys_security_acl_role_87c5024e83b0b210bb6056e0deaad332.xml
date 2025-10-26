@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-26 14:40:39</sys_created_on>
+        <sys_id>87c5024e83b0b210bb6056e0deaad332</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1777657_atech_ai_devices.x_1777657_atech.ai_devices_user</sys_name>
+        <sys_package display_value="ATech" source="x_1777657_atech">6afa35ce8370b210bb6056e0deaad3cb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ATech">6afa35ce8370b210bb6056e0deaad3cb</sys_scope>
+        <sys_security_acl display_value="x_1777657_atech_ai_devices">0bc5024e83b0b210bb6056e0deaad32e</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_87c5024e83b0b210bb6056e0deaad332</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-26 14:40:39</sys_updated_on>
+        <sys_user_role display_value="x_1777657_atech.ai_devices_user" name="x_1777657_atech.ai_devices_user">47c5868a83b0b210bb6056e0deaad37f</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ATech">6afa35ce8370b210bb6056e0deaad3cb</application>
+        <file_path/>
+        <instance_id>204b4476db46021037d72a591396197a</instance_id>
+        <instance_name>dev268218</instance_name>
+        <name>sys_security_acl_role_87c5024e83b0b210bb6056e0deaad332</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-26 14:40:39</sys_created_on><sys_id>87c5024e83b0b210bb6056e0deaad332</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1777657_atech_ai_devices.x_1777657_atech.ai_devices_user</sys_name><sys_package display_value="ATech" source="x_1777657_atech">6afa35ce8370b210bb6056e0deaad3cb</sys_package><sys_policy/><sys_scope display_value="ATech">6afa35ce8370b210bb6056e0deaad3cb</sys_scope><sys_security_acl display_value="x_1777657_atech_ai_devices">0bc5024e83b0b210bb6056e0deaad32e</sys_security_acl><sys_update_name>sys_security_acl_role_87c5024e83b0b210bb6056e0deaad332</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-26 14:40:39</sys_updated_on><sys_user_role display_value="x_1777657_atech.ai_devices_user" name="x_1777657_atech.ai_devices_user">47c5868a83b0b210bb6056e0deaad37f</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1215875304</payload_hash>
+        <record_name>x_1777657_atech_ai_devices.x_1777657_atech.ai_devices_user</record_name>
+        <reverted_from/>
+        <source>f41cb90283b0b210bb6056e0deaad3f3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-26 14:40:39</sys_created_on>
+        <sys_id>8fc5024e83b0b210bb6056e0deaad341</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19a20f6d8900000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-26 14:40:39</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>83c5024e96b0b210b24c29b5b44a4841</update_guid>
+        <update_guid_history>83c5024e96b0b210b24c29b5b44a4841:-1215875304</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1777657_atech_ai_devices.x_1777657_atech.ai_devices_user">45b7c6ce83b0b210bb6056e0deaad3f0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-26 14:48:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>07fb70592f984e608626679f1f951100</sys_id>
+        <sys_metadata>87c5024e83b0b210bb6056e0deaad332</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1777657_atech_ai_devices.x_1777657_atech.ai_devices_user</sys_name>
+        <sys_package display_value="ATech" source="x_1777657_atech">6afa35ce8370b210bb6056e0deaad3cb</sys_package>
+        <sys_parent display_value="">0bc5024e83b0b210bb6056e0deaad32e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ATech">6afa35ce8370b210bb6056e0deaad3cb</sys_scope>
+        <sys_scope_delete display_value="">44268d58c1fe4f84b6d6c7d448c0d221</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_87c5024e83b0b210bb6056e0deaad332</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_87c5024e83b0b210bb6056e0deaad332">8fc5024e83b0b210bb6056e0deaad341</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-26 14:48:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

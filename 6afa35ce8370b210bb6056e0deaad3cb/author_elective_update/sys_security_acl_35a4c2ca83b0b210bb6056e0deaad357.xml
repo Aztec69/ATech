@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <decision_type>allow</decision_type>
+        <description>Default access control on x_1777657_atech_ai_devices</description>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1777657_atech_ai_devices</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-26 14:35:39</sys_created_on>
+        <sys_id>35a4c2ca83b0b210bb6056e0deaad357</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1777657_atech_ai_devices</sys_name>
+        <sys_package display_value="ATech" source="x_1777657_atech">6afa35ce8370b210bb6056e0deaad3cb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ATech">6afa35ce8370b210bb6056e0deaad3cb</sys_scope>
+        <sys_update_name>sys_security_acl_35a4c2ca83b0b210bb6056e0deaad357</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-26 14:35:39</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ATech">6afa35ce8370b210bb6056e0deaad3cb</application>
+        <file_path/>
+        <instance_id>204b4476db46021037d72a591396197a</instance_id>
+        <instance_name>dev268218</instance_name>
+        <name>sys_security_acl_35a4c2ca83b0b210bb6056e0deaad357</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><decision_type>allow</decision_type><description>Default access control on x_1777657_atech_ai_devices</description><local_or_existing>Local</local_or_existing><name>x_1777657_atech_ai_devices</name><operation display_value="delete">delete</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-26 14:35:39</sys_created_on><sys_id>35a4c2ca83b0b210bb6056e0deaad357</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1777657_atech_ai_devices</sys_name><sys_package display_value="ATech" source="x_1777657_atech">6afa35ce8370b210bb6056e0deaad3cb</sys_package><sys_policy/><sys_scope display_value="ATech">6afa35ce8370b210bb6056e0deaad3cb</sys_scope><sys_update_name>sys_security_acl_35a4c2ca83b0b210bb6056e0deaad357</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-26 14:35:39</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-1810001364</payload_hash>
+        <record_name>x_1777657_atech_ai_devices</record_name>
+        <reverted_from/>
+        <source>f41cb90283b0b210bb6056e0deaad3f3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-26 14:35:39</sys_created_on>
+        <sys_id>b9a4c2ca83b0b210bb6056e0deaad35a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19a20f244220000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-26 14:35:39</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>bda4c2ca6ab0b210f1b1ff86e526cb59</update_guid>
+        <update_guid_history>bda4c2ca6ab0b210f1b1ff86e526cb59:-1810001364</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-26 14:39:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>2aef8bc1b0304f039537948c0cf116a9</sys_id>
+        <sys_metadata>35a4c2ca83b0b210bb6056e0deaad357</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1777657_atech_ai_devices</sys_name>
+        <sys_package display_value="ATech" source="x_1777657_atech">6afa35ce8370b210bb6056e0deaad3cb</sys_package>
+        <sys_parent display_value="">f9a4c2ca83b0b210bb6056e0deaad35e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="ATech">6afa35ce8370b210bb6056e0deaad3cb</sys_scope>
+        <sys_scope_delete display_value="">44268d58c1fe4f84b6d6c7d448c0d221</sys_scope_delete>
+        <sys_update_name>sys_security_acl_35a4c2ca83b0b210bb6056e0deaad357</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_35a4c2ca83b0b210bb6056e0deaad357">b9a4c2ca83b0b210bb6056e0deaad35a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-26 14:39:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
